@@ -92,4 +92,4 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 ## Contact
-For questions or collaboration, please reach out to [your-email@example.com](mailto:your-email@example.com).
+For questions or collaboration, please reach out to [your-email@example.com](mailto:mdmahin3@gmail.com).
