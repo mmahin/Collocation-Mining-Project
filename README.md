@@ -83,7 +83,7 @@ Contributions are welcome! If you'd like to contribute:
 3. Commit your changes:
  ```bash
  git commit -m "Add feature description"
-
+```
 4. Push the branch and create a pull request.
 
 ## License
